@@ -22,6 +22,8 @@
 
 [English](./README-EN.md) | [中文文档](./README.md)
 
+📖 **[代码文档 / Developer Docs](./docs/README.md)** — 完整代码文档、架构概览与[直觉式速查手册](./docs/comprehendium.md)
+
 </div>
 
 ## ⚡ 项目概述

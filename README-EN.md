@@ -22,6 +22,8 @@
 
 [English](./README-EN.md) | [中文文档](./README.md)
 
+📖 **[Developer Docs](./docs/README.md)** — Full codebase documentation, architecture overview, and [intuition-first guide](./docs/comprehendium.md)
+
 </div>
 
 ## ⚡ Overview
